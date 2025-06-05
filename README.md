@@ -1,6 +1,6 @@
 # Amazon Sales Data Analysis Dashboard
 
-![Amazon Sales Dashboard Screenshot](Screenshot 2025-01-11 111721.png)
+![Amazon Sales Dashboard Screenshot](Screenshot.png)
 
 This repository contains an analysis of Amazon sales data, showcasing key metrics, trends, and visualizations from the dataset.
 
@@ -45,4 +45,4 @@ This repository contains an analysis of Amazon sales data, showcasing key metric
 3. Explore the various metrics and visualizations
 
 ## Screenshot
-![Dashboard Screenshot](Screenshot 2025-01-11 111721.png)
+![Dashboard Screenshot](Screenshot.png)
